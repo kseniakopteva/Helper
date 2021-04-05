@@ -1,0 +1,5 @@
+**/Debug/
+**/.vs/
+obj
+**/Release/*.exe.config
+**/Release/*.pdb
